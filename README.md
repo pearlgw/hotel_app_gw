@@ -67,8 +67,7 @@ Proyek ini saya bangun dari hari **Senin, 24 Maret 2025 hingga Jumat, 28 Maret 2
 
 ## 🗂️ Database Design (ERD)
 
-📌 *Tambahkan gambar ERD di sini*  
-`/public/images/erd.png`  
+📌
 ![ERD](https://github.com/pearlgw/hotel_app_gw/blob/master/images/Sistem%20Hotel.png)
 
 ---
