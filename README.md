@@ -9,7 +9,7 @@ Proyek ini adalah sistem manajemen hotel yang saya bangun dengan Laravel 12, Liv
   <img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/minio.png" alt="Minio" width="60" />
   <img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/docker.png" alt="Docker" width="60" />
   <img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/mysql.png" alt="MySQL" width="60" />
-  <img src="https://avatars.githubusercontent.com/u/6159165?s=200&v=4" alt="Spatie" width="60" />
+  <img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/spatie.png" alt="Spatie" width="60" />
   <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Breeze" width="60" />
   <img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/dbeaver.png" alt="DBeaver" width="60" />
 </p>
