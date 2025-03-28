@@ -2,6 +2,18 @@
 
 Proyek ini adalah sistem manajemen hotel yang saya bangun dengan Laravel 12, Livewire, Midtrans, Minio, Docker, dan MySQL. Proyek ini terinspirasi dari teman saya yang memperkenalkan saya pada teknologi Minio, dan sejak saat itu saya tertarik untuk mencoba dan mengintegrasikannya ke dalam aplikasi Laravel.
 
+<p align="center">
+  <img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/laravel.png" alt="Laravel" width="60" />
+  <img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/livewire.png" alt="Livewire" width="60" />
+  <img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/midtrans.png" alt="Midtrans" width="60" />
+  <img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/minio.png" alt="Minio" width="60" />
+  <img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/docker.png" alt="Docker" width="60" />
+  <img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/mysql.png" alt="MySQL" width="60" />
+  <img src="https://avatars.githubusercontent.com/u/6159165?s=200&v=4" alt="Spatie" width="60" />
+  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Breeze" width="60" />
+  <img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/dbeaver.png" alt="DBeaver" width="60" />
+</p>
+
 ---
 
 ## 🧰 Tech Stack
@@ -84,15 +96,13 @@ Proyek ini saya bangun dari hari **Senin, 24 Maret 2025 hingga Jumat, 28 Maret 2
 ## 📎 Cara Menjalankan
 
 ```bash
-git clone https://github.com/pearlgw/hotel_app_project.git
-cd hotel_app_project
+git clone https://github.com/pearlgw/hotel_app_gw.git
+cd hotel_app_gw
 cp .env.example .env
 composer install
 php artisan key:generate
 
-# Jalankan docker untuk Minio & MySQL
-docker compose up -d
-
 # Jalankan Laravel
 php artisan migrate
-php artisan serve
+php artisan db:seed
+php artisan ser
