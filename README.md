@@ -88,6 +88,8 @@ Proyek ini saya bangun dari hari **Senin, 24 Maret 2025 hingga Jumat, 28 Maret 2
 
 📸 *Tambahkan screenshot hasil project kamu di sini*  
 <img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/demo12.png" />
+<img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/demo23.png" />
+<img src="https://github.com/pearlgw/hotel_app_gw/blob/master/images/Screenshot%20from%202025-03-28%2011-57-20.png" />
 
 ---
 
